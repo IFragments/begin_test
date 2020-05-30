@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlue">#3cf</color>
+    <color name="colorGuideButton">#BDBDBD</color>
+    <color name="colorNormalText">#BDBDBD</color>
+    <color name="colorSelectedText">#E44B4B</color>
+    <color name="colorMainTheme">#5A5B5C</color>
+    <color name="colorToolbarButton">#717578</color>
+    <color name="colorTabDive">#8A8B8C</color>
+</resources>
